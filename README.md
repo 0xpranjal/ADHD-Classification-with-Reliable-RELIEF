@@ -4,6 +4,8 @@ Implemented the research paper, 'Classification of ADHD Individuals and Neurotyp
 
 - The results on other datasets show that this algorithm can perform better than other feature extraction methods. The implemented algorithm will be eventually deployed as a web application to detect ADHD individuals with higher accuracy in comparison to automatic state-of-the-art classsifiers.
 
+<pre>
+
 ├── LICENSE
 ├── Notebooks
 │   ├── ADHD\ Classification.ipynb
@@ -16,3 +18,4 @@ Implemented the research paper, 'Classification of ADHD Individuals and Neurotyp
     ├── computePCA.py
     ├── relief.py
     └── rrelief.py
+</pre>

@@ -1,4 +1,4 @@
-# ADHD-Classification-with-Reliable-RELIEF
+# ADHD Classification with Reliable RELIEF
 
 Implemented the research paper, 'Classification of ADHD Individuals and Neurotypicals Using Reliable RELIEF' where I wrote the code for an improved Reliable RELIEF algorithm from scratch. Also, I implemented several classifiers for ADHD classification models. Final goal of this project is to classify ADHD where the feature extraction process uses the Reliable RELIEF algorithm. 
 

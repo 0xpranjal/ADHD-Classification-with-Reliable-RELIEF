@@ -8,7 +8,7 @@ This repo contains the RRelief implementation that I researched and implemented 
 
 Implemented the research paper, 'Classification of ADHD Individuals and Neurotypicals Using Reliable RELIEF' where I wrote the code for an improved Reliable RELIEF algorithm from scratch. Also, I implemented several classifiers for ADHD classification models. Final goal of this project is to classify ADHD where the feature extraction process uses the Reliable RELIEF algorithm. 
 
-<p  align="center"><img width = "850" height=400" src = "https://raw.githubusercontent.com/Bhard27/ADHD-Classification-with-Reliable-RELIEF/main/assets/ADHD-thumbnail.png?token=AMFAV36ACLI5QUP55LWJUN3BNHK2S"></p>
+<p  align="center"><img width = "650" height=300" src = "https://raw.githubusercontent.com/Bhard27/ADHD-Classification-with-Reliable-RELIEF/main/assets/ADHD-thumbnail.png?token=AMFAV36ACLI5QUP55LWJUN3BNHK2S"></p>
 
     
 ### Relief algorithm    

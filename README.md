@@ -33,9 +33,13 @@ There are three Algorithms in the Relief Family:
 ├── LICENSE
 ├── Notebooks
 │   ├── ADHD\ Classification.ipynb
-│   ├── ADHD-classification.ipynb
 │   └── ADHD.ipynb
 ├── README.md
+├── assets
+│   ├── ADHD-thumbnail.png
+│   ├── fMRI-output.jpg
+│   ├── paper.png
+│   └── relief-algo.png
 └── src
     ├── Amprion.csv
     ├── R-Relieff.py
